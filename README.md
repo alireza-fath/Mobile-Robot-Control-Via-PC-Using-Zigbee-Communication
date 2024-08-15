@@ -20,7 +20,11 @@ To control the robot, type the following commands into the PC interface:
 
 MIT License
 
+This project also uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the full text of the LGPL license in the `LICENSE` file.
+
 Copyright (c) [2024] [Alireza Fath]
+
+### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -40,6 +44,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+### LGPL License
+
+GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright © 1991, Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 Additionally, when using this software or substantial portions of it, the user must cite the following GitHub repository in any resulting publication:
 
@@ -50,5 +57,5 @@ Additionally, when using this software or substantial portions of it, the user m
 ### SoftwareSerial Library Citation
 
 This project uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the library and its license at the following link:
-- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)[^1^][1]
+- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)
 
