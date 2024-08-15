@@ -22,8 +22,6 @@ MIT License
 
 This project also uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the full text of the LGPL license in the `LICENSE` file.
 
-Copyright (c) [2024] [Alireza Fath]
-
 ### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -46,7 +44,11 @@ SOFTWARE.
 
 ### LGPL License
 
-GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright © 1991, Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 2.1, February 1999
+Copyright © 1991, Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 Additionally, when using this software or substantial portions of it, the user must cite the following GitHub repository in any resulting publication:
 
@@ -57,5 +59,4 @@ Additionally, when using this software or substantial portions of it, the user m
 ### SoftwareSerial Library Citation
 
 This project uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the library and its license at the following link:
-- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)
-
+- SoftwareSerial Library on GitHub
