@@ -59,4 +59,4 @@ Additionally, when using this software or substantial portions of it, the user m
 ### SoftwareSerial Library Citation
 
 This project uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the library and its license at the following link:
-- SoftwareSerial Library on GitHub
+- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)
