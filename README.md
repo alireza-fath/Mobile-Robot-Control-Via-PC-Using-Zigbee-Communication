@@ -40,9 +40,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Additionally, when using this software or substantial portions of it, the user must cite the following GitHub repository in any resulting publication:
 
+Additionally, when using this software or substantial portions of it, the user must cite the following GitHub repository in any resulting publication:
 
 ## Citation
 
 [alireza-fath], [Mobile-Robot-Control-Via-PC-Using-Zigbee-Communication], Available at: [https://github.com/alireza-fath/Mobile-Robot-Control-Via-PC-Using-Zigbee-Communication]
+
+### SoftwareSerial Library Citation
+
+This project uses the `SoftwareSerial` library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. You can find the library and its license at the following link:
+- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)[^1^][1]
+
