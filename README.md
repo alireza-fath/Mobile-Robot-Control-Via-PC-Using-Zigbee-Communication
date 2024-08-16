@@ -52,7 +52,9 @@ Everyone is permitted to copy and distribute verbatim copies of this license doc
 
 Additionally, when using this software or substantial portions of it, the user must cite the following GitHub repository in any resulting publication:
 
-## Citation
+## Citations
+
+Fath, Alireza. 2024. "Integration and Performance Assessment of Cyber-Physical Systems for Structural Health Monitoring and Maintenance." Order No. 31487424, The University of Vermont and State Agricultural College. https://login.ezproxy.uvm.edu/login?url=https://www.proquest.com/dissertations-theses/integration-performance-assessment-cyber-physical/docview/3086817567/se-2.
 
 [alireza-fath], [Mobile-Robot-Control-Via-PC-Using-Zigbee-Communication], Available at: [https://github.com/alireza-fath/Mobile-Robot-Control-Via-PC-Using-Zigbee-Communication]
 
